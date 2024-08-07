@@ -18,10 +18,9 @@ The VIT Academic Resource Hub is a comprehensive platform designed to centralize
 - HTML
 - CSS
 - JavaScript
-- [Any other technologies you plan to use]
 
 ## Setup Instructions
-To get started with the VIT Academic Resource Hub, begin by cloning the repository to your local machine using the command `git clone (https://github.com/AbhaySingh002/IEEEVitBhopal_22_PEXPO_SQUAD.git)`. Once the repository is cloned, navigate to the project directory with `cd vit-academic-resource-hub`. Open the `index.html` file in your preferred web browser to access the homepage and start exploring the hub's features.
+To get started with the VIT Academic Resource Hub, begin by cloning the repository to your local machine using the command `git clone https://github.com/AbhaySingh002/IEEEVitBhopal_22_PEXPO_SQUAD.git`. Once the repository is cloned, navigate to the project directory with `cd vit-academic-resource-hub`. Open the `index.html` file in your preferred web browser to access the homepage and start exploring the hub's features.
 
 ## Usage Instructions
 Upon opening the homepage, you'll be greeted with a hero section that introduces the VIT Academic Resource Hub, along with various resource cards for quick navigation. Hover over the subject tabs to reveal a dropdown menu showcasing a range of subtopics. Clicking on any of these tabs will take you to a detailed landing page for that subject, where you can dive deeper into specific areas of study.
